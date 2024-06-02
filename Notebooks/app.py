@@ -3,6 +3,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import plotly.express as px
 
 st.title('EDA Optimización de Carteras con Machine Learning')
 
